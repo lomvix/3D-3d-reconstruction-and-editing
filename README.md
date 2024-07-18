@@ -1,4 +1,4 @@
-# 3D-3d-reconstruction-and-editing
+# 3D-reconstruction-and-editing
 
 三维重建和编辑相关的论文及代码
 
