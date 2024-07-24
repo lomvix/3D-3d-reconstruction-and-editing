@@ -10,7 +10,7 @@ BFN及相关：
 [github](https://github.com/ML-GSAI/BFN-Solver) 
 
 ---
-VAE:
+VAE:  
 [变分自编码器 VAE 超详解，从简单公式推导到模型结构到模型理解](https://blog.csdn.net/m0_56942491/article/details/136265500)  
 [生成模型之VAE模型及pytorch实现](https://blog.csdn.net/qq_49729636/article/details/134671076?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-5-134671076-blog-136265500.235^v43^pc_blog_bottom_relevance_base5&spm=1001.2101.3001.4242.4&utm_relevant_index=8)
 
